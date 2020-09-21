@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int Mulitply(int a, int b) {
 	int c = a * b; 
